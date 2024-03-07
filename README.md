@@ -13,17 +13,17 @@ and then combines their predictions to improve accuracy and generalization.
 The Random Forest model demonstrated impressive performance during evaluation:
 
 ### Accuracy: 
-The model achieved an outstanding accuracy of 99% on our initial randomized test set. 
+The model achieved an outstanding accuracy of 99% on the initial randomized test set. 
 This indicates that 99% of the test set, consisting of 1040 NBA players, were accurately classified as either future Hall of Famers or not.
 ### Overall Performance: 
 When applied to the entire dataset of 5201 NBA players, the model accurately predicted 
 the Hall of Fame status of 4885 players. With only 316 incorrect predictions, the model achieved an impressive accuracy rate of 94%.
 ### Conclusion
-Our machine learning model offers valuable insights into the factors influencing
+The machine learning model offers valuable insights into the factors influencing
 NBA Hall of Fame induction. By accurately predicting the HOF status of NBA players,
 the model provides a powerful tool for talent evaluation and decision-making in basketball analytics.
 
-With its high accuracy and robust performance, our Random Forest model 
+With its high accuracy and robust performance, the Random Forest model 
 represents a significant advancement in showcasing the potential of machine learning in sports analytics.
 
 For further details and implementation, please refer to the code and documentation provided in this repository.
