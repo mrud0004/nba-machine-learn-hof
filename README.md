@@ -18,7 +18,7 @@ This indicates that 99% of the test set, consisting of 1040 NBA players, were ac
 ### Overall Performance: 
 When applied to the entire dataset of 5201 NBA players, the model accurately predicted 
 the Hall of Fame status of 4885 players. With only 316 incorrect predictions, the model achieved an impressive accuracy rate of 94%.
-### Conclusion
+## Conclusion:
 The machine learning model offers valuable insights into the factors influencing
 NBA Hall of Fame induction. By accurately predicting the HOF status of NBA players,
 the model provides a powerful tool for talent evaluation and decision-making in basketball analytics.
